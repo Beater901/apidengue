@@ -2,7 +2,7 @@
 
 ## 🚀API DENGUE
 
-* Profesor: Cristian
+* Profesor: Cristian Pietrobon
 * Integrantes: Leonardo Leytes y Roberto Leytes
 
 
